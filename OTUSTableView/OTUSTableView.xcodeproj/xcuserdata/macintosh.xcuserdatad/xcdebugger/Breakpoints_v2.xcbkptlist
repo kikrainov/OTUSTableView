@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C9E36924-D422-4B3C-B074-DD0E336D0DD6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0860FADE-4475-4C5D-8F09-C2DCF12BAA2C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OTUSTableView/CustomTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "prepareEditScreen(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "55599F28-3049-44EC-9701-83523C527ABD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OTUSTableView/CustomTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "prepareEditScreen(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7F8AC963-54C4-4DAA-AA86-E24EF67B4D56"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OTUSTableView/TableHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "TableHelper"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "7F8AC963-54C4-4DAA-AA86-E24EF67B4D56 - 8c2dd67147182d3f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OTUSTableView.TableHelper.indexValue.getter : Swift.Int"
+                  moduleName = "OTUSTableView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macintosh/Documents/GitHub/OTUSTableView/OTUSTableView/TableHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "7F8AC963-54C4-4DAA-AA86-E24EF67B4D56 - 1469fa4374f9f10b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OTUSTableView.TableHelper.indexValue.setter : Swift.Int"
+                  moduleName = "OTUSTableView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macintosh/Documents/GitHub/OTUSTableView/OTUSTableView/TableHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "97">
+               </Location>
+               <Location
+                  uuid = "7F8AC963-54C4-4DAA-AA86-E24EF67B4D56 - 48954f269b1b0e3c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OTUSTableView.TableHelper.indexValue.modify : Swift.Int"
+                  moduleName = "OTUSTableView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macintosh/Documents/GitHub/OTUSTableView/OTUSTableView/TableHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "7F8AC963-54C4-4DAA-AA86-E24EF67B4D56 - ae338b73919e940b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OTUSTableView.TableHelper.indexValue.modify : Swift.Int with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "OTUSTableView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macintosh/Documents/GitHub/OTUSTableView/OTUSTableView/TableHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "7F8AC963-54C4-4DAA-AA86-E24EF67B4D56 - 2535396e7113be3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OTUSTableView.TableHelper.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; OTUSTableView.TableHelper"
+                  moduleName = "OTUSTableView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macintosh/Documents/GitHub/OTUSTableView/OTUSTableView/TableHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "7F8AC963-54C4-4DAA-AA86-E24EF67B4D56 - 50d3c01df66bcf8c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OTUSTableView.TableHelper.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;OTUSTableView.TableHelper&gt;"
+                  moduleName = "OTUSTableView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macintosh/Documents/GitHub/OTUSTableView/OTUSTableView/TableHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "133">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "579E41F5-9D8D-4757-9157-699A2E521BFC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OTUSTableView/TableHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A5A48F29-262B-4B12-BFB0-D31BC945DE86"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OTUSTableView/TableHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
