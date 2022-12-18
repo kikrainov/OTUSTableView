@@ -18,6 +18,8 @@ class CustomTableViewController: TableHelper {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        helper.indexValue = 0
                 
         helper.dataSourceMethod(tableView: customTableView)
         helper.delegateMethod(tableView: customTableView)
